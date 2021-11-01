@@ -1,5 +1,4 @@
-# react-showcase
-
+# REACT-PORTFOLIO
 `npm install` to get all dependencies
 
 `npm start` dev mode
