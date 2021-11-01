@@ -1,0 +1,14 @@
+.logo {
+  position: center;
+  font-family: $font-2;
+  font-size: 1.2rem;
+  user-select: none;
+
+  &:after {
+    content: "";
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
