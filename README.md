@@ -1,4 +1,4 @@
-# react-showcase
+# react-PORTFOLIO
 
 `npm install` to get all dependencies
 
